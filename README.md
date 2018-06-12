@@ -1,5 +1,7 @@
 # compute_posteriori
 
+[![Build Status](https://travis-ci.org/SanyTiger/compute_posteriori.svg?branch=master)](https://travis-ci.org/SanyTiger/compute_posteriori)
+
 Source [Wikipedia](https://en.wikipedia.org/wiki/Posterior_probability)
 >
 Posterior probability of a random event or an uncertain proposition is the conditional probability that is assigned after the relevant evidence or background is taken into account. Similarly, the posterior probability distribution is the probability distribution of an unknown quantity, treated as a random variable, conditional on the evidence obtained from an experiment or survey. "Posterior", in this context, means after taking into account the relevant evidence related to the particular case being examined. 
